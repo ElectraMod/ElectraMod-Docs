@@ -1,20 +1,20 @@
 ---
-title: About PenguinMod
+title: About ElectraMod
 displayed_sidebar: tutorialSidebar
 ---
 
 <img src="img/favicon.png" alt="PenguinMod"></img>
 
-## What is PenguinMod?
+## What is ElectraMod?
 
-PenguinMod is a mod of [TurboWarp](https://turbowarp.org/) by [GarboMuffin](https://github.com/GarboMuffin).  
+ElectraMod is a mod of [PenguinMod](https://penguinmod.com/) which is a mod of [TurboWarp](https://turbowarp.org/) by [GarboMuffin](https://github.com/GarboMuffin).  
 We edited their code a lot to add tons of new extensions and features for people to use.
 
-Feel free to [use PenguinMod here](https://penguinmod.com/), *you don't need an account to [create a project](https://studio.penguinmod.com/editor.html).*
+Feel free to [use ElectraMod here](https://electramod-home.vercel.app), *you don't need an account to [create a project](https://electramod.vercel.app/editor.html).*
 
-## Who makes PenguinMod?
+## Who makes ElectraMod?
 
-View the list of contributors [here.](https://studio.penguinmod.com/credits.html)  
+View the list of contributors [here.](https://electramod.vercel.app/credits.html)  
 We've been constantly working to make the site awesome for users and developers.
 
 ### Looking to make an extension?
@@ -26,5 +26,5 @@ Feel free to submit your finished extensions on [our Extra Extensions Gallery.](
 
 ## More
 
-Our GitHub is located [here](https://github.com/PenguinMod/), feel free to contribute but it may be difficult.  
-We will eventually document the process on working with PenguinMod's internals here.
+Our GitHub is located [here](https://github.com/Electramod/), feel free to contribute but it may be difficult.  
+We will eventually document the process on working with ElectraMod's internals here.

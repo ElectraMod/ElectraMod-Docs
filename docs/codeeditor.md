@@ -31,15 +31,15 @@ We'll return to Variables, Lists, and My Blocks later.
 
 ### Extensions
 Extensions are various new categories you can import in your project if your project needs them.
-<img src="/img/docimages/extension-list.png" alt="Extension list in PenguinMod Studio"></img>
+<img src="/img/docimages/extension-list.png" alt="Extension list in ElectraMod Studio"></img>
 
 Most simple projects will not require the use of any extensions, but extensions allow for additional functionality in your projects.
 
 You can access this menu by clicking the button with the blocks and a plus at the bottom of the toolbox.
-<img src="/img/docimages/extensions-list-button.png" alt="Extension list button in PenguinMod Studio"></img>
+<img src="/img/docimages/extensions-list-button.png" alt="Extension list button in ElectraMod Studio"></img>
 
 Clicking the category filters on the left will allow you to filter out extensions that you aren't looking for.
-<img src="/img/docimages/extension-list-filters.png" alt="Extension list filters in PenguinMod Studio"></img>
+<img src="/img/docimages/extension-list-filters.png" alt="Extension list filters in ElectraMod Studio"></img>
 
 ### Monitors
 Click the checkbox next to certain blocks in the toolbox to show a monitor for it.
@@ -131,7 +131,7 @@ The Backpack is a menu at the bottom of the editor where you can store Sprites, 
 Content inside the backpack is accessible for other projects you may create.
 
 :::note
-Backpacks in PenguinMod save to your computer. If you switch browsers or clear your browsing data, you may lose your backpack.
+Backpacks in ElectraMod save to your computer. If you switch browsers or clear your browsing data, you may lose your backpack.
 :::
 
 :::warning
@@ -140,7 +140,7 @@ Try loading extensions inside the code or sprites before trying to import the co
 :::
 
 ## Restore Points
-Restore Points are an auto-saving feature in PenguinMod in the case you forgot to save your project.
+Restore Points are an auto-saving feature in ElectraMod in the case you forgot to save your project.
 :::danger
 Do not rely on Restore Points for saving as they may be randomly deleted by your computer or browser.
 If you switch browsers or clear your browsing data, you may lose any restore points you had.

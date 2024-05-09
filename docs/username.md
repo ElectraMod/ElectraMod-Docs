@@ -19,7 +19,7 @@ This returns either the logged-in user's username, or a random username that can
 This value can be spoofed (faked) by an extension or the player themselves. Please be careful when using this block.
 
 ### Logged In
-When you login on the [home page](https://penguinmod.com), this block will return the username of the currently logged in player.
+When you login on the [home page](https://electramod-home.vercel.app), this block will return the username of the currently logged in player.
 This block might still return this username if the player logs out during the project, or another block or extension changes this info.
 
 ### Logged Out
