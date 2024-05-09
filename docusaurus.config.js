@@ -8,20 +8,20 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PenguinMod',
+  title: 'ElectraMod',
   // tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.penguinmod.com',
+  url: 'https://docs.ElectraMod.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'PenguinMod', // Usually your GitHub org/user name.
-  projectName: 'PenguinMod-DocsNewest', // Usually your repo name.
+  organizationName: 'ElectraMod', // Usually your GitHub org/user name.
+  projectName: 'ElectraMod-DocsNewest', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -58,9 +58,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'PenguinMod',
+        title: 'ElectraMod',
         logo: {
-          alt: 'PenguinMod Logo',
+          alt: 'ElectraMod Logo',
           src: 'img/favicon.png',
         },
         items: [
@@ -80,12 +80,12 @@ const config = {
             position: 'left'
           },
           {
-            href: 'https://penguinmod.com/',
-            label: 'PenguinMod',
+            href: 'https://electramod-home.vercel.app/',
+            label: 'ElectraMod',
             position: 'right'
           },
           {
-            href: 'https://github.com/PenguinMod/',
+            href: 'https://github.com/ElectraMod/',
             label: 'GitHub',
             position: 'right',
           },
